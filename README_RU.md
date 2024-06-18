@@ -1,6 +1,6 @@
 # Counter-Strike Online 2 Global for Linux
 
-1. Установите PortProton согласно по инструкции: &lt;<ссылка&gt;>
+1. Установите PortProton согласно по инструкции: https://github.com/DmitrySenpai/cso2-global-linux/blob/main/PortProton_setup.md
 2. Скачайте CSO2 и распакуйте в любое место.
 3. Перед запуском CSO2 запустите PortProton (можно также запустить через терминал \[не через root!\] с командой portproton).
 4. Тут можно оставить по умолчанию, нажимаем на ОК, и ждем.

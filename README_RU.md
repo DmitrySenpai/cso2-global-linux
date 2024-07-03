@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://github.com/DmitrySenpai/cso2-global-linux/assets/2939460/ae3f99ef-781b-4cf4-a91f-06b01e889eaa" />
 </p>
-6. После окончание загрузки, переедите в директорию, где установлена cso2 и откройте папку Bin.
-7. Изапустите cso2_global_launcher.exe. Открыть можно через правой кнопки мыши -> PortProton. (Или через терминал с командой: portproton &lt;путь_к_лаунчеру_exe&gt;)
+6. После окончание загрузки, перейдите в директорию, где установлена cso2 и откройте папку Bin.
+7. И запустите cso2_global_launcher.exe. Открыть можно через правой кнопки мыши -> PortProton. (Или через терминал с командой: portproton &lt;путь_к_лаунчеру_exe&gt;)
 <p align="center">
   <img src="https://github.com/DmitrySenpai/cso2-global-linux/assets/2939460/cbe87f94-41f0-49ff-bd19-0033d99fcb63" />
 </p>
